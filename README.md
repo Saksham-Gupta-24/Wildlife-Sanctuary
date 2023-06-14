@@ -27,7 +27,7 @@ This project is completely implemented using DATA STRUCTURE IN C Programming
 Language. This project is very easy to understand. This whole project is made using Turbo 
 C/C++ software.
 
-## Methodology
+## Methodology :
 
 Here in this project I have used the concept of the linked list [ single linked list ]. With 
 the help of a linked list in this project, user can store the details of species [plants and 
@@ -41,9 +41,9 @@ of species and the visitors. And which also helps the user to store the feeding 
 name. 
 
 
-## Data Structures Used
+## Data Structures Used :
 
-* LINKED LISTS:
+* LINKED LISTS :
 
 Linked list is a dynamic data structure. In the linked list data items are not in a sequential 
 manner. we can also call linked list as linear data structure because of its appearance 
@@ -55,7 +55,7 @@ of pointers. It is having nodes in which each node has a data part and a pointer
 the next node. The data part contains the value of the node and the reference part 
 contains the address of the next node. 
 
-* SINGLY LINKED LIST:
+* SINGLY LINKED LIST :
 
 single linked list is a collection of nodes in which each node has two-part:
 
@@ -66,7 +66,7 @@ ii. Second part having Pointer- which links or holds the address of the next nod
 II. The first node’s address is stored in ‘Head’ which is known as start and the last node 
 pointer part contains “NULL” value.
 
-* ARRAYS:
+* ARRAYS :
 
 i. An array is a collection of data of a similar datatype.
 
@@ -80,7 +80,7 @@ v. The first element of an array is stored at the lowest memory address, while t
 
 vi. Syntax- Data-type Array-Name[index];
 
-## Software Requirements:
+## Software Requirements :
 
 1. TURBO C/C++
 2. DEV C++
@@ -89,12 +89,12 @@ Etc. and other IDEs we can use.
 
 ## OUTPUT :
 
-Main Menu:
+Main Menu :
 
 ![1](https://github.com/Saksham-Gupta-24/Wildlife-Sanctuary/assets/114461220/1d8b4efa-77cf-4643-b971-ab3d5a4acedd)
 
 
-ADD MENU:
+ADD MENU :
 
 ![2](https://github.com/Saksham-Gupta-24/Wildlife-Sanctuary/assets/114461220/bef5cfbe-7483-4977-a438-e6bf11f4d2b6)
 
@@ -139,7 +139,7 @@ SEARCH OPERATION :
 ![9](https://github.com/Saksham-Gupta-24/Wildlife-Sanctuary/assets/114461220/c17f1475-6664-4283-b615-e86df0387c75)
 
 
-DELETE MENU
+DELETE MENU :
 
 ![image](https://github.com/Saksham-Gupta-24/Wildlife-Sanctuary/assets/114461220/6f584f61-2953-4410-aa3b-331741b019b7)
 
@@ -149,11 +149,11 @@ DELETE MENU
 
 
 
-## Author
+## Author :
 
 https://github.com/Saksham-Gupta-24
 
-## Contact:
+## Contact :
 
 If you encounter any difficulties or have feedback you would like to share, please feel free to reach out to me. 
 
