@@ -3,7 +3,7 @@ This Project stores the information of plants and animals species of the wildlif
 
 
 # Mini Project Using Data structures in C
-## The title of the project is "Wild Sanctuary".
+## The title of the project is "Wild Sanctuary"
 
 WILDLIFE SANCTUARY is a place where plants and animals species are protected. 
 Where they can live safely. They will get the proper environment to live there. They will 
