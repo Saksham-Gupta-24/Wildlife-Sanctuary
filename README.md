@@ -43,7 +43,7 @@ name.
 
 ## Data Structures Used
 
-LINKED LISTS:
+* LINKED LISTS:
 
 Linked list is a dynamic data structure. In the linked list data items are not in a sequential 
 manner. we can also call linked list as linear data structure because of its appearance 
@@ -55,7 +55,7 @@ of pointers. It is having nodes in which each node has a data part and a pointer
 the next node. The data part contains the value of the node and the reference part 
 contains the address of the next node. 
 
-SINGLY LINKED LIST:
+* SINGLY LINKED LIST:
 
 single linked list is a collection of nodes in which each node has two-part:
 
@@ -66,30 +66,19 @@ ii. Second part having Pointer- which links or holds the address of the next nod
 II. The first node’s address is stored in ‘Head’ which is known as start and the last node 
 pointer part contains “NULL” value.
 
-ARRAYS:
+* ARRAYS:
 
 i. An array is a collection of data of a similar datatype.
 
-ii. In an array we can access a specific element by an index.
+ii. Elements in an array can be accessed using an index.
 
-iii. Array is a static datatype. 
+iii. Arrays can be of fixed size, making them a static data type.
 
-iv. In array elements are stored in memory locations continuously. 
+iv. Array elements are stored in contiguous memory locations. 
 
-v. The first element is stored at the lowest address and the last element is stored at the 
-highest address. 
+v. The first element of an array is stored at the lowest memory address, while the last element is stored at the highest memory address.
 
-vi. An array is a finite collection of similar elements stored in adjacent memory locations. 
-
-vii. The number of elements to be used is mentioned as an index usually ranging from 0 
-to N-1 where ‘0’ is lower bound and N-1 is upper bound. 
-
-viii. Arrays can be 1-D, 2-D or multi-dimensional. 
-
-ix. In 2-D array elements are stored in rows and columns. It is also called matrix, of order 
-m x n. 
-
-x. Syntax- Data-type Array-Name[index];
+vi. Syntax- Data-type Array-Name[index];
 
 ## Software Requirements:
 
@@ -98,10 +87,74 @@ x. Syntax- Data-type Array-Name[index];
 3. VISUAL STUDIO CODE [ IDE ]
 Etc. and other IDEs we can use.
 
+## OUTPUT :
+
+Main Menu:
+
+![1](https://github.com/Saksham-Gupta-24/Wildlife-Sanctuary/assets/114461220/1d8b4efa-77cf-4643-b971-ab3d5a4acedd)
+
+
+ADD MENU:
+
+![2](https://github.com/Saksham-Gupta-24/Wildlife-Sanctuary/assets/114461220/bef5cfbe-7483-4977-a438-e6bf11f4d2b6)
+
+
+ADDING VISITOR DETAILS :
+
+![3](https://github.com/Saksham-Gupta-24/Wildlife-Sanctuary/assets/114461220/b9a9b61d-2ceb-47c1-8cbc-1355cccf6417)
+
+
+ADDING ANIMAL DETAILS :
+
+![4](https://github.com/Saksham-Gupta-24/Wildlife-Sanctuary/assets/114461220/70ab07ea-1855-4b9d-8e1f-06866957e41c)
+
+
+ADDING FEEDING ITEMS : 
+
+![5](https://github.com/Saksham-Gupta-24/Wildlife-Sanctuary/assets/114461220/45418528-86c4-40b1-918b-95d98b3a44ff)
+
+
+DISPLAY MENU :
+
+![6 0](https://github.com/Saksham-Gupta-24/Wildlife-Sanctuary/assets/114461220/5bdc04ed-ca9f-4d6d-9b25-2a3192bf764b)
+
+
+TIMING OF WILDLIFE SANCTUARY :
+
+![6](https://github.com/Saksham-Gupta-24/Wildlife-Sanctuary/assets/114461220/3ccffadd-d17e-4eff-a7d8-de1d959c16ef)
+
+
+VISITORS DETAILS :
+
+![7](https://github.com/Saksham-Gupta-24/Wildlife-Sanctuary/assets/114461220/05dfca44-7827-4704-bfd0-a1c086f8fa49)
+
+
+ANIMALS DETAILS :
+
+![8](https://github.com/Saksham-Gupta-24/Wildlife-Sanctuary/assets/114461220/56512be9-5df3-4093-95af-9d3b27a8981c)
+
+
+SEARCH OPERATION :
+
+![9](https://github.com/Saksham-Gupta-24/Wildlife-Sanctuary/assets/114461220/c17f1475-6664-4283-b615-e86df0387c75)
+
+
+DELETE MENU
+
+![image](https://github.com/Saksham-Gupta-24/Wildlife-Sanctuary/assets/114461220/6f584f61-2953-4410-aa3b-331741b019b7)
+
+
+
+
+
+
+
 ## Author
 
 https://github.com/Saksham-Gupta-24
 
 ## Contact:
 
-If any issue is there or you want to give any type of feedback then mail me @officialsaksham23@gmail.com
+If you encounter any difficulties or have feedback you would like to share, please feel free to reach out to me. 
+
+You can mail me on guptasaksham938@gmail.com and I'll be happy to assist you or address any concerns you may have.
