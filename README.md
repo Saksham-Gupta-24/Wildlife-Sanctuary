@@ -96,4 +96,4 @@ https://github.com/Saksham-Gupta-24
 
 If you encounter any difficulties or have feedback you would like to share, please feel free to reach out to me. 
 
-You can mail me on guptasaksham938@gmail.com and I'll be happy to assist you or address any concerns you may have.
+You can message on https://www.linkedin.com/in/saksham-gupta24/ or mail me on guptasaksham938@gmail.com and I'll be happy to assist you or address any concerns you may have.
