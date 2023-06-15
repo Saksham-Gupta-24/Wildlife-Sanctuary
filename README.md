@@ -1,28 +1,28 @@
 # WILDLIFE SANCTUARY
 
-# INTRODUCTION : 
+## INTRODUCTION : 
 
 The "WILDLIFE SANCTUARY " project is implemented using data structures in the C programming language.
 It serves as a database for storing information about plant and animal species, feeding items for the animals, and details of visitors to the wildlife sanctuary.
 The project aims to simplify the record-keeping process and provide an efficient way to manage wildlife sanctuary data.
 
-# THE PROBLEM :
+## THE PROBLEM :
 
 The wildlife sanctuary workers faced difficulties in storing species and visitor details using books and ledgers, which consumed time and effort. Searching for specific information also took a long time. This project addresses these issues by providing an efficient solution.
 
-# THE SOLUTION :
+## THE SOLUTION :
 
 The wildlife sanctuary management project allows users to efficiently manage records of plant and animal species, visitors, and feeding items. It streamlines the process, saving significant time and effort. Additionally, it reduces paper usage and does not require an internet connection. This solution provides an effective means of record management for wildlife sanctuaries.
 
 
 
-# DATA STRUCTURES USED : 
+## DATA STRUCTURES USED : 
 
 * The linked list is used to store species' details, visitor information, and feeding items for animals.
 * Arrays are also employed to store names, basic details of species and visitors, and feeding item names.
 
 
-# TOOLS REQUIREMENTS :
+## TOOLS REQUIREMENTS :
 
 1. TURBO C/C++
 2. DEV C++
@@ -30,7 +30,7 @@ The wildlife sanctuary management project allows users to efficiently manage rec
 Etc. and other IDEs we can use.
 
 
-# OUTPUT :
+## OUTPUT :
 
 * Main Menu :
 
